@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "621487978555",
+    "project_id": "yjsteelmobile",
+    "storage_bucket": "yjsteelmobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621487978555:android:f6546f027f1d2ba9ab041e",
+        "android_client_info": {
+          "package_name": "com.micromos.yjsteel_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621487978555-14cn96smjpu8jjhlon8kbchpplh805v4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuGc8dR9cSQ2KulmSl59DUemHFrwTQibo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621487978555-14cn96smjpu8jjhlon8kbchpplh805v4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
