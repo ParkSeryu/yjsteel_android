@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "791248108225",
+    "project_id": "m-ysteel",
+    "storage_bucket": "m-ysteel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791248108225:android:bec65fd66248b69d",
+        "android_client_info": {
+          "package_name": "com.micromos.yjsteel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791248108225-io9qvikme6d2nkvhtg951v9ss84pibda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NrcQuebQTMkdeMJNn4vLuHQQna1yYxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791248108225-io9qvikme6d2nkvhtg951v9ss84pibda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791248108225:android:da1298f006e1341042b240",
+        "android_client_info": {
+          "package_name": "com.micromos.yjsteel_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791248108225-io9qvikme6d2nkvhtg951v9ss84pibda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-NrcQuebQTMkdeMJNn4vLuHQQna1yYxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791248108225-io9qvikme6d2nkvhtg951v9ss84pibda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

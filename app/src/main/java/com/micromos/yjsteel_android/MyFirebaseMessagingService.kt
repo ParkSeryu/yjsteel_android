@@ -71,11 +71,16 @@ class MyFirebaseMessagingService : FirebaseMessagingService() {
 
         val res = resources
 
+        val bigTextStyle = NotificationCompat.BigTextStyle()
+            .bigText(body)
+            .setBigContentTitle(title)
+            .setSummaryText("출발알림")
+
+
         val notificationBuilder = NotificationCompat.Builder(this, CHANNEL_ID)
             .setSmallIcon(R.mipmap.ic_launcher)
             .setLargeIcon(BitmapFactory.decodeResource(res, R.mipmap.ic_launcher))
-            .setContentTitle(title)
-            .setContentText(body)
+            .setStyle(bigTextStyle)
             .setSound(defaultSound)
             .setVibrate(longArrayOf(1, 1000))
             .setContentIntent(pendingIntent)
