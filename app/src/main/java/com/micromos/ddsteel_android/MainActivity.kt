@@ -101,7 +101,7 @@ class MainActivity : AppCompatActivity() {
             webView.loadUrl("http://192.168.0.105:3000")
         //webView.loadUrl("http://121.165.242.72:5080")
         else
-            webView.loadUrl("http://http://121.171.250.65/DDSTEEL_API/SCM_MOBILE/")
+            webView.loadUrl("http://121.171.250.65/DDSTEEL_API/SCM_MOBILE/")
         //토큰값을 받아옵니다.
 
         btnReload.setOnClickListener {
