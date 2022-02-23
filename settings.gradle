@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "yjsteel_android"
+rootProject.name = "ddsteel_android"
